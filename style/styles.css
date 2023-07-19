@@ -2,6 +2,9 @@
     font-family: 'Work Sans', sans-serif;
     margin: 0;
 }
+button{
+    cursor: pointer;
+}
 
 /* Nav bar header*/
 .disco a{
@@ -133,21 +136,24 @@ margin-top: 20px;
 
 /*Main section*/
 .sec-threeh33{
-text-align: center;
-font-size: 48px;
-font-weight: 700;
-
-background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    color: #0B0223;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.a{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
 background-clip: text;
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
+font-family: Work Sans;
 font-size: 48px;
+font-style: normal;
 font-weight: 700;
-padding-top: 50px;
-
-}
-.sca-trspan{
-    color: #0B0223;
+line-height: normal;
 }
 
 .para{
