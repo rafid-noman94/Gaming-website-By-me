@@ -337,7 +337,7 @@ padding-right: 50px;
     padding-right: 50px;
 }
 
-/* .fu-three a{
+.fu-three li{
     color: #FFF;
 text-align: center;
 font-family: Work Sans;
@@ -346,7 +346,7 @@ font-style: normal;
 font-weight: 500;
 line-height: normal;
 text-decoration: none;
-} */
+}
 footer p{
     color: rgba(255, 255, 255, 0.60);
 text-align: center;
